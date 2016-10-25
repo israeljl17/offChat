@@ -1,0 +1,10 @@
+{
+  "name": "offChat",
+  "version": "1.0.0",
+  "node-main": "index.js",
+  "main": "index.html",
+  "window": {
+    "width": 700,
+    "height": 600
+  }
+}
